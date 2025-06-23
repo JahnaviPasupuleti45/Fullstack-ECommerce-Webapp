@@ -17,8 +17,9 @@ import support from './support_img.png'
 import star_icon from './star_icon.png'
 import star_dull_icon from './star_dull_icon.png';
 import bin_icon from './bin_icon.png'
-import p_img1 from './p_img1.png';
+import shopify from './shopify.png'
 import p_img2 from './p_img2.png';
+import p_img1 from './p_img1.png';
 import p_img2_1 from './p_img2_1.png';
 import p_img2_2 from './p_img2_2.png';
 import p_img2_3 from './p_img2_3.png';
@@ -92,7 +93,9 @@ export const assets={
     support,
     star_icon,
     star_dull_icon,
-    bin_icon
+    bin_icon,
+    shopify,
+    p_img1
 
 }
 
